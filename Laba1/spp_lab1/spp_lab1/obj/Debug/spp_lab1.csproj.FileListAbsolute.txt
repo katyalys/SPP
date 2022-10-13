@@ -1,0 +1,12 @@
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\bin\Debug\NLog.config
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\bin\Debug\spp_lab1.exe.config
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\bin\Debug\spp_lab1.exe
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\bin\Debug\spp_lab1.pdb
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\bin\Debug\NLog.dll
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\bin\Debug\NLog.xml
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\obj\Debug\spp_lab1.csproj.AssemblyReference.cache
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\obj\Debug\spp_lab1.csproj.SuggestedBindingRedirects.cache
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\obj\Debug\spp_lab1.csproj.CoreCompileInputs.cache
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\obj\Debug\spp_lab1.csproj.CopyComplete
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\obj\Debug\spp_lab1.exe
+C:\Компьютер\Универ 3.0\СПП\spp_lab1\spp_lab1\obj\Debug\spp_lab1.pdb

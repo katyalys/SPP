@@ -1,0 +1,5 @@
+2022-10-06 22:09:35.9994 INFO Console app started
+2022-10-06 22:09:36.0636 INFO Created object of OSHandle
+2022-10-06 22:09:36.0676 INFO OSHandle objected was disposed
+2022-10-06 22:09:36.0676 ERROR Доступ к ликвидированному объекту невозможен.
+Имя объекта: "laba2var2New_spp.OSHandle".

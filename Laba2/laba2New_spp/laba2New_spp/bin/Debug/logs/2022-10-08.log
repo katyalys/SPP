@@ -1,0 +1,123 @@
+2022-10-08 10:13:42.7042 INFO Console app start
+2022-10-08 10:13:42.7401 INFO Thread 6 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 6: value of Count = 1
+2022-10-08 10:13:42.7401 INFO Thread 6 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 7: value of Count = 0
+2022-10-08 10:13:42.7401 INFO Thread 7 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 6: value of Count = 1
+2022-10-08 10:13:42.7401 INFO Thread 6 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 7: value of Count = 0
+2022-10-08 10:13:42.7401 INFO Thread 7 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 6: value of Count = 1
+2022-10-08 10:13:42.7401 INFO Thread 6 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 6: value of Count = 2
+2022-10-08 10:13:42.7401 INFO Thread 6 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 6 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 6: value of Count = 3
+2022-10-08 10:13:42.7401 INFO Thread 6 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 7: value of Count = 2
+2022-10-08 10:13:42.7401 INFO Thread 7 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 7: value of Count = 1
+2022-10-08 10:13:42.7401 INFO Thread 7 released mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 waits for mutex
+2022-10-08 10:13:42.7401 INFO Thread 7 gets mutex
+2022-10-08 10:13:42.7401 INFO Thread 7: value of Count = 0
+2022-10-08 10:13:42.7401 INFO Thread 7 released mutex
+2022-10-08 10:43:35.3080 INFO Console app start
+2022-10-08 10:43:35.3937 INFO Thread 4 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 5 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 4: value of Count = 1
+2022-10-08 10:43:35.3977 INFO Thread 4 released mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 5 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 5: value of Count = 0
+2022-10-08 10:43:35.3977 INFO Thread 5 released mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 4: value of Count = 1
+2022-10-08 10:43:35.3977 INFO Thread 4 released mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 4: value of Count = 2
+2022-10-08 10:43:35.3977 INFO Thread 4 released mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 5 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 4: value of Count = 3
+2022-10-08 10:43:35.3977 INFO Thread 4 released mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 5 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 5: value of Count = 2
+2022-10-08 10:43:35.3977 INFO Thread 5 released mutex
+2022-10-08 10:43:35.3977 INFO Thread 4 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 4: value of Count = 3
+2022-10-08 10:43:35.3977 INFO Thread 4 released mutex
+2022-10-08 10:43:35.3977 INFO Thread 5 waits for mutex
+2022-10-08 10:43:35.3977 INFO Thread 5 gets mutex
+2022-10-08 10:43:35.3977 INFO Thread 5: value of Count = 2
+2022-10-08 10:43:35.4106 INFO Thread 5 released mutex
+2022-10-08 10:43:35.4106 INFO Thread 5 waits for mutex
+2022-10-08 10:43:35.4106 INFO Thread 5 gets mutex
+2022-10-08 10:43:35.4106 INFO Thread 5: value of Count = 1
+2022-10-08 10:43:35.4106 INFO Thread 5 released mutex
+2022-10-08 10:43:35.4106 INFO Thread 5 waits for mutex
+2022-10-08 10:43:35.4106 INFO Thread 5 gets mutex
+2022-10-08 10:43:35.4106 INFO Thread 5: value of Count = 0
+2022-10-08 10:43:35.4106 INFO Thread 5 released mutex
+2022-10-08 14:00:30.1748 INFO Console app start
+2022-10-08 14:00:30.2197 INFO Thread 4 waits for mutex
+2022-10-08 14:00:30.2197 INFO Thread 4 gets mutex
+2022-10-08 14:00:30.2197 INFO Thread 4: value of Count = 1
+2022-10-08 14:00:30.2197 INFO Thread 5 waits for mutex
+2022-10-08 14:00:30.2197 INFO Thread 5 gets mutex
+2022-10-08 14:00:30.2197 INFO Thread 5: value of Count = 0
+2022-10-08 14:00:30.2227 INFO Thread 5 released mutex
+2022-10-08 14:00:30.2227 INFO Thread 5 waits for mutex
+2022-10-08 14:00:30.2227 INFO Thread 5 gets mutex
+2022-10-08 14:00:30.2227 INFO Thread 5: value of Count = -1
+2022-10-08 14:00:30.2227 INFO Thread 5 released mutex
+2022-10-08 14:00:30.2227 INFO Thread 5 waits for mutex
+2022-10-08 14:00:30.2227 INFO Thread 5 gets mutex
+2022-10-08 14:00:30.2227 INFO Thread 5: value of Count = -2
+2022-10-08 14:00:30.2227 INFO Thread 5 released mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 released mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 waits for mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 gets mutex
+2022-10-08 14:00:30.2227 INFO Thread 4: value of Count = -1
+2022-10-08 14:00:30.2227 INFO Thread 4 released mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 waits for mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 gets mutex
+2022-10-08 14:00:30.2227 INFO Thread 4: value of Count = 0
+2022-10-08 14:00:30.2227 INFO Thread 4 released mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 waits for mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 gets mutex
+2022-10-08 14:00:30.2227 INFO Thread 4: value of Count = 1
+2022-10-08 14:00:30.2227 INFO Thread 4 released mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 waits for mutex
+2022-10-08 14:00:30.2227 INFO Thread 4 gets mutex
+2022-10-08 14:00:30.2227 INFO Thread 4: value of Count = 2
+2022-10-08 14:00:30.2387 INFO Thread 4 released mutex
+2022-10-08 14:00:30.2387 INFO Thread 5 waits for mutex
+2022-10-08 14:00:30.2387 INFO Thread 5 gets mutex
+2022-10-08 14:00:30.2387 INFO Thread 5: value of Count = 1
+2022-10-08 14:00:30.2387 INFO Thread 5 released mutex
+2022-10-08 14:00:30.2387 INFO Thread 5 waits for mutex
+2022-10-08 14:00:30.2387 INFO Thread 5 gets mutex
+2022-10-08 14:00:30.2387 INFO Thread 5: value of Count = 0
+2022-10-08 14:00:30.2387 INFO Thread 5 released mutex

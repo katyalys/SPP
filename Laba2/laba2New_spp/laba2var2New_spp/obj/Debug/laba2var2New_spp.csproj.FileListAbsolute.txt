@@ -1,0 +1,12 @@
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\bin\Debug\laba2var2New_spp.exe.config
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\bin\Debug\laba2var2New_spp.exe
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\bin\Debug\laba2var2New_spp.pdb
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\obj\Debug\laba2var2New_spp.csproj.AssemblyReference.cache
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\obj\Debug\laba2var2New_spp.csproj.SuggestedBindingRedirects.cache
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\obj\Debug\laba2var2New_spp.csproj.CoreCompileInputs.cache
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\obj\Debug\laba2var2New_spp.exe
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\obj\Debug\laba2var2New_spp.pdb
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\bin\Debug\NLog.config
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\bin\Debug\NLog.dll
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\bin\Debug\NLog.xml
+C:\Компьютер\Универ 3.0\СПП\laba2New_spp\laba2var2New_spp\obj\Debug\laba2var2New_spp.csproj.CopyComplete
